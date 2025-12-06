@@ -1,9 +1,4 @@
-# SimDash - Unity Arduino Car Simulation
-
-This project connects a Unity car game with Arduino Uno to display speed on a 3-digit 7-segment display and control a fan motor.
-
-## Project Deliverables
-- Refer to Miro Board: https://miro.com/app/board/uXjVJs10bzI=/
+## CAR SIMULATOR
 
 ## Components
 
